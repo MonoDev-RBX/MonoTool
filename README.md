@@ -9,6 +9,13 @@ Move main.py to the folder you created
 If you couldnt download the ohter python files in the SubTools folder then create a new folder in MonoTool folder called SubTools
 Move Encryptor.py, MonoPL.py, Enforce_Extension.py to the SubTools folder.
 Run this command in your command prompt (Windows)
-``` pip install cryptography zlib tempfile getpass PIL ```
+```python
+pip install cryptography zlib tempfile getpass PIL
+```
+
+
+
 Run this command in your terminal (MacOS)
-``` pip3 install cryptography zlib tempfile getpass PIL ```
+```python
+pip3 install cryptography zlib tempfile getpass PIL
+```
